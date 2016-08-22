@@ -7,6 +7,14 @@ cask visual-studio-code
 
 tap homebrew/core
 brew mas
+brew readline
+brew tig
+brew carthage
+brew go
+brew rbenv
+brew mvnvm
+brew hub
+brew zsh 
 
 tap rcmdnk/file
 brew brew-file
