@@ -2,6 +2,8 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask astah-community
+cask visual-studio-code
 
 tap homebrew/core
 brew mas
