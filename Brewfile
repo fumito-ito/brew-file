@@ -3,18 +3,29 @@
 
 tap caskroom/cask
 cask astah-community
+cask firefox
+cask google-chrome
+cask prott
+cask sketch-toolbox
+cask sketch
 cask visual-studio-code
+cask zeplin
+
+tap homebrew/completions
+brew homesick-completion
 
 tap homebrew/core
-brew mas
-brew readline
-brew tig
 brew carthage
 brew go
-brew rbenv
-brew mvnvm
 brew hub
-brew zsh 
+brew mas
+brew mvnvm
+brew nodeenv
+brew rbenv
+brew readline
+brew swiftlint
+brew tig
+brew zsh
 
 tap rcmdnk/file
 brew brew-file
