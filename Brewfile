@@ -3,6 +3,7 @@
 
 tap caskroom/cask
 cask astah-community
+cask dash
 cask firefox
 cask google-chrome
 cask prott
@@ -10,6 +11,7 @@ cask sketch-toolbox
 cask sketch
 cask visual-studio-code
 cask zeplin
+cask adobe-creative-cloud
 
 tap homebrew/completions
 brew homesick-completion
@@ -31,7 +33,6 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 449589707 Dash
 appstore 682658836 GarageBand
 appstore 409183694 Keynote
 appstore 926036361 LastPass
