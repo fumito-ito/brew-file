@@ -2,35 +2,48 @@
 # tap repositories and their packages
 
 tap caskroom/cask
-cask astah-community
-cask dash
-cask firefox
-cask google-chrome
-cask prott
-cask sketch-toolbox
-cask sketch
-cask visual-studio-code
-cask zeplin
-cask adobe-creative-cloud
 
 tap homebrew/completions
-brew homesick-completion
 
 tap homebrew/core
+
+tap rcmdnk/file
+
+tap thii/fonts
+
+# Other Homebrew packages
+brew brew-file
 brew carthage
 brew go
+brew homesick-completion
 brew hub
 brew mas
 brew mvnvm
 brew nodeenv
+brew openssl
 brew rbenv
 brew readline
 brew swiftlint
 brew tig
+brew tree
 brew zsh
 
-tap rcmdnk/file
-brew brew-file
+# Cask applications
+cask adobe-creative-cloud
+cask alcatraz
+cask alfred
+cask appcleaner
+cask astah-community
+cask dash
+cask firefox
+cask google-chrome
+cask haroopad
+cask prott
+cask sketch-toolbox
+cask sketch
+cask squirrelsql
+cask visual-studio-code
+cask zeplin
 
 # App Store applications
 appstore 682658836 GarageBand
