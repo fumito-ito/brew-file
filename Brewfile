@@ -51,7 +51,6 @@ brew wireshark
 brew zsh
 
 # Cask applications
-cask adobe-creative-cloud
 cask alfred
 cask android-studio
 cask appcleaner
@@ -74,5 +73,4 @@ appstore 409183694 Keynote
 appstore 926036361 LastPass
 appstore 409203825 Numbers
 appstore 409201541 Pages
-appstore 410628904 Wunderlist
 appstore 408981434 iMovie
