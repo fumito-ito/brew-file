@@ -57,6 +57,7 @@ cask appcleaner
 cask astah-community
 cask dash
 cask firefox
+cask fork
 cask google-chrome
 cask karabiner-elements
 cask prott
