@@ -60,13 +60,11 @@ cask firefox
 cask fork
 cask google-chrome
 cask karabiner-elements
-cask prott
 cask sketch
 cask sketch-toolbox
 cask squirrelsql
 cask visual-studio-code
 cask wireshark
-cask zeplin
 
 # App Store applications
 appstore 682658836 GarageBand
