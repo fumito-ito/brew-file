@@ -60,6 +60,7 @@ cask astah-community
 cask authy
 cask brave
 cask dash
+cask dropbox
 cask firefox
 cask fork
 cask gitify
