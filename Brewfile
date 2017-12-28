@@ -64,8 +64,8 @@ cask dropbox
 cask firefox
 cask fork
 cask gitify
+cask gitscout
 cask google-chrome
-cask jasper
 cask karabiner-elements
 cask sketch-toolbox
 cask sketch
