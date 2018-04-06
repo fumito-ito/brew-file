@@ -44,7 +44,6 @@ brew openssl
 brew p11-kit
 brew pcre
 brew peco
-brew python3
 brew rbenv
 brew readline
 brew ruby
@@ -90,6 +89,12 @@ tap rcmdnk/file
 brew brew-file
 
 tap thii/fonts
+
+# Other Homebrew packages
+brew python3
+
+# Cask applications
+cask Gitscout
 
 # App Store applications
 appstore 682658836 GarageBand
